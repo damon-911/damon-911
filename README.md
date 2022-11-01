@@ -1,7 +1,8 @@
 <div align="center">
 <h3>✨ Me ✨</h3>
 <p>안녕하세요. 현재 안드로이드를 공부하고 있는 학생입니다.</p>
-
+  
+<!--
 #
 <h3>📚 Stacks 📚</h3>
 <p>
@@ -12,7 +13,8 @@
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
-
+-->
+  
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damon-911&show_icons=true&theme=tokyonight&count_private=true)
   
