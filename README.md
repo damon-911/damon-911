@@ -4,7 +4,21 @@
 </div>
 
 #
+<div align="center">
+<h3>📚 Stacks 📚</h3>
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;&nbsp; 
+<p>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?style=for-the-badge&logo=Android Studio&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
+</div>
+  
+#
 <div align="center"> 
+<h3>👑 My Stats 👑</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damon-911&layout=compact&langs_count=6&hide_border=true&include_orgs=true&theme=tokyonight" alt="Minjun's Language stats" />
 </a>
@@ -14,17 +28,6 @@
 </div>
   
 <!--
-#
-<h3>📚 Stacks 📚</h3>
-<p>
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white"/>&nbsp;&nbsp; 
-<p>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
-
 **damon-911/damon-911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
