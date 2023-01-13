@@ -6,10 +6,10 @@
 #
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damon-911&layout=compact&langs_count=6&hide_border=true&include_orgs=true&theme=tokyonight" alt="Minjun's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damon-911&layout=compact&langs_count=6&hide_border=true&include_orgs=true&card_width=250&theme=tokyonight" alt="Minjun's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damon-911&show_icons=true&count_private=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=tokyonight" alt="Minjun's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damon-911&show_icons=true&count_private=true&card_width=400&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=tokyonight" alt="Minjun's Github stats" />
 </a>
 </div>
   
