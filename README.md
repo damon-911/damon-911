@@ -13,7 +13,7 @@
 <p>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?style=for-the-badge&logo=Android Studio&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp;
 </div>
   
 #
