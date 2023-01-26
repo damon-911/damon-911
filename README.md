@@ -20,10 +20,10 @@
 <div align="center"> 
 <h3>👑 My Stats 👑</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damon-911&layout=compact&role=owner,collaborator&langs_count=6&hide_border=true&include_orgs=true&theme=tokyonight" alt="Minjun's Language stats" />
+<img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damon-911&layout=compact&role=owner,collaborator&langs_count=6&hide_border=true&include_orgs=true&theme=tokyonight" alt="Minjun's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damon-911&role=owner,collaborator&show_icons=true&count_private=true&card_width=300&include_all_commits=true&include_orgs=true&theme=tokyonight" alt="Minjun's Github stats" />
+<img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damon-911&role=owner,collaborator&show_icons=true&count_private=true&card_width=300&include_all_commits=true&include_orgs=true&theme=tokyonight" alt="Minjun's Github stats" />
 </a>
 </div>
   
