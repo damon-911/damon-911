@@ -7,11 +7,11 @@
     끊임없이 더 나은 방법을 고민하여 최상의 결과를 얻고자 노력하는 개발자입니다.
   </p>
  
-  <Strong>📧 Email 📧</Strong></br>
+  <h4>📧 Email 📧</h4>
   damon911@naver.com
   
   <h4>📖 Blog 📖</h4>
-  <a href="https://damon-911.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a></h4>
+  <a href="https://damon-911.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
 
 #
