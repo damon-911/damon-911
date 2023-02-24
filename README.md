@@ -1,6 +1,17 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=703ee5&text=MinJun's%20GitHub%20&height=200&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=70" />
 <h3>✨ Me ✨</h3>
-<p>안녕하세요. 안드로이드 개발자를 꿈꾸는 예비 개발자입니다.</p>
+  <p>
+    안녕하세요. 안드로이드 개발자를 꿈꾸는 김민준입니다. <br>
+    저는 항상 배우려는 자세로 학습에 임하고 있습니다. <br>
+    끊임없이 더 나은 방법을 고민하여 최상의 결과를 얻고자 노력하는 개발자입니다.
+  </p>
+ 
+  <Strong>📧 Email 📧</Strong></br>
+  damon911@naver.com
+  
+  <h4>📖 Blog 📖</h4>
+  <a href="https://damon-911.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a></h4>
 </div>
 
 #
