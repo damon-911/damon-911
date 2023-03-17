@@ -11,20 +11,17 @@
   damon911@naver.com
   
   <h4>📖 Blog 📖</h4>
-  <a href="https://damon-911.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://damon-911.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-535D6C?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </div>
 
 #
 <div align="center">
 <h3>📚 Stacks 📚</h3>
 <p>
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;&nbsp; 
-<p>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?style=for-the-badge&logo=Android Studio&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>&nbsp;&nbsp;
 </div>
   
 #
@@ -32,15 +29,15 @@
 <h3>👑 My Stats 👑</h3>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damon-911&layout=compact&role=owner,collaborator&langs_count=6&hide_border=true&include_orgs=true&theme=tokyonight" alt="Minjun's Language stats" />
+  <img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damon-911&layout=compact&role=owner,collaborator&langs_count=6&hide_border=true&include_orgs=true&theme=tokyonight" alt="Minjun's Language stats" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damon-911&role=owner,collaborator&show_icons=true&count_private=true&card_width=300&include_all_commits=true&include_orgs=true&theme=tokyonight" alt="Minjun's Github stats" />
+  <img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damon-911&role=owner,collaborator&show_icons=true&count_private=true&card_width=300&include_all_commits=true&include_orgs=true&theme=tokyonight" alt="Minjun's Github stats" />
 </a>
   
 <a href="https://solved.ac/damon911">
-<img height=190 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=damon911" alt="Minjun's Solved.ac" />
+  <img height=190 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=damon911" alt="Minjun's Solved.ac" />
 </a>
   
 </div>
