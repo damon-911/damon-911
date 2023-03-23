@@ -9,8 +9,6 @@
     <li>끊임없이 더 나은 방법을 고민하는 개발자</li></br>
   </p>
   
-  </br>
-  
   <h3>📧 Email 📧</h3>
   damon911@naver.com
   
@@ -20,7 +18,7 @@
   <a href="https://damon-911.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-535D6C?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/damon911/dc1729da68c84dc0a55366affca60db8" target="_blank">
+  <a href="https://damon911.notion.site/dc1729da68c84dc0a55366affca60db8" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
 
