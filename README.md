@@ -2,15 +2,6 @@
  
  <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=703ee5&text=MinJun's%20GitHub&height=200&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=70"/>
   
- <h3>✨ Me ✨</h3>
- <p>
-  <li> 고객 중심적 사고를 가지고 있는 개발자 </li></br>
-  <li> 맡겨진 업무에 대해 책임감이 강한 개발자</li></br>
-  <li>끊임없이 더 나은 방법을 고민하는 개발자</li>
- </p>
-  
- </br>
-  
  <h3>📧 Contact 📧</h3>
  <p>
   <a href="mailto:damon911@naver.com">
